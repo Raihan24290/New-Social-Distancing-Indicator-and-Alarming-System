@@ -1,0 +1,7 @@
+As our whole nation is fighting with covid-19 so for strictly maintaining social distancing I came up with this project as a simple solution. It is a Arduino based indicating and alarming system.
+So, Project components are:
+1) Arduino UNO (Microprocessor)
+2) Ultra sonic sensor(It can detect the presence of any object within a specified distance)
+3) Buzzer
+4) Neo-pixel ring(A ring of 12 LED lights)
+S0, basically here as much close as the object will come the number of LED will start to glow. As we have 12 LED lights and I divided it in 4 different colours. For first 4 colours will be green, then yellow, red, blue respectively and after covering all this if the object comes within a close range of 120 cm to the sensor then Buzzer starts to ring.
